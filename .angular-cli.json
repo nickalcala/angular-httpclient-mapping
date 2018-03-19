@@ -9,6 +9,7 @@
       "outDir": "dist",
       "assets": [
         "assets",
+        "books.json",
         "favicon.ico"
       ],
       "index": "index.html",

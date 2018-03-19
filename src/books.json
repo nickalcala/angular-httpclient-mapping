@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "One Thing",
+        "description": "The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results is a non-fiction, self-help book written by authors and real estate entrepreneurs.",
+        "author": "Gary W. Keller and Jay Papasan",
+        "published_at": "2013-04-01"
+    },
+    {
+        "id": 2,
+        "title": "How to Win Friends and Influence People",
+        "description": "How to Win Friends and Influence People is a self-help book written by Dale Carnegie, published in 1936. Over 30 million copies have been sold world-wide, making it one of the best-selling books of all time.",
+        "author": "Dale Carnegie",
+        "published_at": "1936-10-01"
+    }
+]
